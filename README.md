@@ -1,4 +1,4 @@
-*Diffusion Model Study*
+**Diffusion Model Study**
 
 **https://huggingface.co/learn/diffusion-course/unit0/1**
 
